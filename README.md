@@ -2,6 +2,11 @@
 
 ## Get Start
 
+```bash
+    git clone https://github.com/Kalyanasundaram-J/attendance-model.git
+    cd attendance-model
+```
+
 1. Create Database using `mifration/db_schema.sql` file.
 2. Insert test data to DB using `migration/seed.sql` file.
 3. Configure the Database detail in `db_config.php` file.
